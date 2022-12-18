@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harshil Jain
+- 🌱 I’m currently learning Python, Java and C++
+- 📫 How to reach me harshiljain918@gmail.com
